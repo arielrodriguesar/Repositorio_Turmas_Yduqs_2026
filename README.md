@@ -17,7 +17,7 @@ Bem-vindo(a) ao repositório oficial das aulas desenvolvidas para a YDUQS. Este 
 
 🎯 Objetivos
 
-Apoiar alunos e docentes no processo de ensino-aprendizagem.
+Apoiar alunos no processo de ensino-aprendizagem.
 
 Promover acesso fácil e organizado aos materiais.
 
@@ -33,6 +33,8 @@ Faça o clone do repositório.
 Acesse a pasta do tema desejado.
 
 Explore os conteúdos disponíveis (notebooks, slides, datasets).
+
+---
 
 🤝 Contribuições
 
